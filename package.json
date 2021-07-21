@@ -1,0 +1,13 @@
+{
+  "name": "saris-ivr-system",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/krustevgeorgi/saris-ivr-system.git",
+  "author": "Georgi <krustevgeorgi@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "expres": "^0.0.5",
+    "express": "^4.17.1",
+    "twilio": "^3.66.0"
+  }
+}
